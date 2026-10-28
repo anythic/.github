@@ -8,7 +8,7 @@
 
 Researching intelligent systems. Engineering tools for developers.
 
-[Website](https://anythic.com) &nbsp;·&nbsp; [Open Source](https://github.com/anythic/anythic-ui) &nbsp;·&nbsp; [npm](https://www.npmjs.com/package/@anythic/ui)
+ &nbsp;·&nbsp; [Open Source](https://github.com/anythic/anythic-ui) &nbsp;·&nbsp; [npm](https://www.npmjs.com/package/@anythic/ui)
 
 </div>
 
@@ -49,7 +49,7 @@ Build streaming conversations and agent experiences with reasoning blocks, tool 
 
 For projects, research, and open-source collaboration:
 
-[anythic.com](https://anythic.com) · [hello@anythic.com](mailto:hello@anythic.com) · [GitHub](https://github.com/anythic)
+ · [GitHub](https://github.com/anythic)
 
 ---
 
