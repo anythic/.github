@@ -1,48 +1,60 @@
-
 <div align="center">
 
-# Anythic
+<img src="./assets/anythic-banner.png" alt="Anythic — AI research and autonomous developer platforms" width="100%" />
+
+<br />
 
 **AI research organization. Developing autonomous developer platforms.**
 
 Researching intelligent systems. Engineering tools for developers.
 
-[Website](https://anythic.com) · [Open Source](https://github.com/anythic/anythic-ui) · [npm](https://www.npmjs.com/package/@anythic/ui)
+[Website](https://anythic.com) &nbsp;·&nbsp; [Open Source](https://github.com/anythic/anythic-ui) &nbsp;·&nbsp; [npm](https://www.npmjs.com/package/@anythic/ui)
 
 </div>
 
 ---
 
-### About
+### 01 / About Anythic
 
-Anythic explores AI-powered software engineering, autonomous developer workflows, and the infrastructure behind them.
+Anythic explores the intersection of artificial intelligence, software engineering, and developer infrastructure. Our focus is on practical systems that make AI-assisted development more capable, reliable, and accessible.
 
-Our work focuses on practical tools that help developers build, understand, and interact with intelligent systems.
+We research autonomous workflows and build tools that help developers work with intelligent systems—from streamed interfaces to agent execution environments.
 
-### Areas of focus
+### 02 / Research & engineering
 
-- **Autonomous development** — Agent workflows for planning, coding, tool use, and execution.
-- **Developer infrastructure** — Interfaces and foundations for AI-powered applications.
-- **Open source** — Reusable components and tools for the developer community.
+| Focus | What we explore |
+| :--- | :--- |
+| **Autonomous Development** | Agent workflows for planning, coding, tool use, and execution. |
+| **Developer Infrastructure** | Foundations and interfaces for AI-powered software. |
+| **Open Source** | Reusable components and tools for the wider developer ecosystem. |
 
-### Open source
+### 03 / Featured open source
 
 #### [anythic/ui](https://github.com/anythic/anythic-ui)
 
-Composable React components for building AI interfaces, including streaming responses, reasoning, tool calls, approvals, plans, code diffs, and terminals.
+**Composable React components for AI interfaces.**
 
-- **Package:** [`@anythic/ui` on npm](https://www.npmjs.com/package/@anythic/ui)
-- **Stack:** React · TypeScript · Tailwind CSS
-- **License:** MIT
+Build streaming conversations and agent experiences with reasoning blocks, tool calls, approvals, plans, code diffs, and terminals. Works with any model or backend.
 
-### Connect
+[![npm version](https://img.shields.io/npm/v/@anythic/ui?style=flat-square&label=npm&color=111111&labelColor=eeeeee)](https://www.npmjs.com/package/@anythic/ui)
+[![npm downloads](https://img.shields.io/npm/dm/@anythic/ui?style=flat-square&label=downloads&color=111111&labelColor=eeeeee)](https://www.npmjs.com/package/@anythic/ui)
+[![GitHub stars](https://img.shields.io/github/stars/anythic/anythic-ui?style=flat-square&label=stars&color=111111&labelColor=eeeeee)](https://github.com/anythic/anythic-ui)
+[![license](https://img.shields.io/github/license/anythic/anythic-ui?style=flat-square&label=license&color=111111&labelColor=eeeeee)](https://github.com/anythic/anythic-ui/blob/main/LICENSE)
 
-- **Website:** [anythic.com](https://anythic.com)
-- **GitHub:** [github.com/anythic](https://github.com/anythic)
-- **Contact:** hello@anythic.com
+**React** · **TypeScript** · **Tailwind CSS v4**
+
+[Explore the repository](https://github.com/anythic/anythic-ui) · [Install from npm](https://www.npmjs.com/package/@anythic/ui) · [Contribution guide](https://github.com/anythic/anythic-ui/blob/main/CONTRIBUTING.md)
+
+### 04 / Connect
+
+For projects, research, and open-source collaboration:
+
+[anythic.com](https://anythic.com) · [hello@anythic.com](mailto:hello@anythic.com) · [GitHub](https://github.com/anythic)
 
 ---
 
 <div align="center">
-<sub>Building the foundations for autonomous development.</sub>
+
+<sub>ANYTHIC / RESEARCH · ENGINEERING · OPEN SOURCE</sub>
+
 </div>
